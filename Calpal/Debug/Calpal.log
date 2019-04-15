@@ -1,0 +1,6 @@
+﻿  test_program.cpp
+D:\CPP Projects\CalPal\Calpal\include\calpal\maths_func.h(12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\CPP Projects\CalPal\Calpal\include\calpal\complex.h(10): warning C4584: 'calpal::maths::complex': base-class 'calpal::maths::value' is already a base-class of 'calpal::maths::vec2'
+  D:\CPP Projects\CalPal\Calpal\include\calpal\value.h(7): note: see declaration of 'calpal::maths::value'
+  D:\CPP Projects\CalPal\Calpal\include\calpal\vec2.h(12): note: see declaration of 'calpal::maths::vec2'
+  Calpal.vcxproj -> D:\CPP Projects\CalPal\Calpal\Debug\Calpal.exe
